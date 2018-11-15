@@ -1,5 +1,5 @@
 speed= 79
-def un_safe?(speed)
+def un_safe(speed)
 	if speed > 60
 		true
 	end
